@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Raj<br>💻 Building scalable applications using MERN Stack, Java, and Spring Boot<br>📘 Continuously enhancing my expertise in software development and DSA<br>🤖 Fascinated by AI, Cybersecurity, and Scalable Application Development practices<br>🔭 Constantly exploring new dimensions<br>🤝 Always open to collaboration—let’s build something innovative together!
+👋 Hey, I’m Raj..<br>💻 Building scalable applications using MERN Stack, Java, and Spring Boot.<br>📘 Continuously enhancing my expertise in software development and DSA.<br>🤖 Fascinated by AI, Cybersecurity, and Scalable Application Development practices.<br>🔭 Constantly exploring new dimensions.<br>🤝 Always open to collaboration—let’s build something innovative together!
 
 
 ## 🌐 Socials:
